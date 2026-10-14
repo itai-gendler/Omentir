@@ -2,8 +2,6 @@
 appliesTo:
 - type: capability
   id: connect-linkedin-account
-- type: entity
-  id: linkedin-account
 references:
 - kind: code
   role: implementation

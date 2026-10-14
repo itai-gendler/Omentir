@@ -2,8 +2,6 @@
 appliesTo:
 - type: capability
   id: record-lead-reply
-- type: entity
-  id: conversation
 references:
 - kind: code
   role: implementation

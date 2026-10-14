@@ -2,8 +2,6 @@
 appliesTo:
 - type: capability
   id: delete-lead-group
-- type: entity
-  id: lead-group
 references:
 - kind: code
   role: implementation

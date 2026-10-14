@@ -21,7 +21,7 @@ steps:
     events: {place: linkedin-events}
 ---
 
-# Reply answered by ai
+# Reply answered by AI
 
 ## Trigger
 

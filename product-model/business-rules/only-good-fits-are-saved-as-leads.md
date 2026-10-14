@@ -2,8 +2,6 @@
 appliesTo:
 - type: capability
   id: discover-leads
-- type: entity
-  id: lead
 references:
 - kind: code
   role: implementation

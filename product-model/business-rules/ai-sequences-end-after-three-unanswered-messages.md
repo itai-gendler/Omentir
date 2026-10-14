@@ -2,8 +2,6 @@
 appliesTo:
 - type: capability
   id: send-sequence-message
-- type: entity
-  id: lead-outreach
 references:
 - kind: code
   role: implementation

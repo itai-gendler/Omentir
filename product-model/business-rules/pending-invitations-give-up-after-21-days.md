@@ -2,8 +2,6 @@
 appliesTo:
 - type: capability
   id: mark-invitation-accepted
-- type: entity
-  id: lead-outreach
 references:
 - kind: code
   role: implementation

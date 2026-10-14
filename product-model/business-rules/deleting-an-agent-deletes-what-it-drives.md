@@ -2,8 +2,6 @@
 appliesTo:
 - type: capability
   id: delete-agent
-- type: entity
-  id: agent
 references:
 - kind: code
   role: implementation

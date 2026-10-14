@@ -2,8 +2,6 @@
 appliesTo:
 - type: capability
   id: send-linkedin-message
-- type: entity
-  id: linkedin-chat
 references:
 - kind: code
   role: implementation

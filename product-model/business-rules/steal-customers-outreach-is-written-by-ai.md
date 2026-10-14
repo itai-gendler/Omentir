@@ -2,8 +2,6 @@
 appliesTo:
 - type: capability
   id: create-agent
-- type: entity
-  id: campaign
 references:
 - kind: code
   role: implementation
